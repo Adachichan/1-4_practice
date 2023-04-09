@@ -29,6 +29,12 @@
   background-color: orange; /* 背景色 → オレンジ */
 }
 
+.main-visual-content{
+  width:350px; /* 横幅350px */
+  height: 300px; /* 高さ300px */
+  background-color: gold; /* 背景色 → 金色 */
+}
+
 .main{
   width:100%; /* 横幅いっぱい */
   height:1400px; /* 高さ1400px */
